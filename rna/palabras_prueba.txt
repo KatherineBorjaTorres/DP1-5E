@@ -1,0 +1,10 @@
+casa
+mesa
+silla
+carro
+camion
+calle
+casanoba
+computadora
+avion
+teclado

@@ -1,0 +1,10 @@
+casa
+mesa
+sala
+taza
+pared
+corazón
+pasamano
+universidad
+computadora
+teclado

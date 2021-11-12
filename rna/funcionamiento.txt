@@ -1,0 +1,324 @@
+El archivo de palabras se abrio correctamente.
+C = a
+
+C = s
+
+C = a
+
+C = 
+
+Fin de linea : 3
+0.- 97
+1.- 115
+2.- 97
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=2547.010986
+
+No reconocio 2547.010986
+
+C = m
+
+C = e
+
+C = s
+
+C = a
+
+C = 
+
+Fin de linea : 4
+0.- 109
+1.- 101
+2.- 115
+3.- 97
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=3449.691895
+
+No reconocio 3449.691895
+
+C = s
+
+C = a
+
+C = l
+
+C = a
+
+C = 
+
+Fin de linea : 4
+0.- 115
+1.- 97
+2.- 108
+3.- 97
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=3409.790283
+
+No reconocio 3409.790283
+
+C = t
+
+C = a
+
+C = z
+
+C = a
+
+C = 
+
+Fin de linea : 4
+0.- 116
+1.- 97
+2.- 122
+3.- 97
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=3529.652344
+
+No reconocio 3529.652344
+
+C = p
+
+C = a
+
+C = r
+
+C = e
+
+C = d
+
+C = 
+
+Fin de linea : 5
+0.- 112
+1.- 97
+2.- 114
+3.- 101
+4.- 100
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=4266.262207
+
+No reconocio 4266.262207
+
+C = c
+
+C = o
+
+C = r
+
+C = a
+
+C = z
+
+C = ó
+
+C = n
+
+C = 
+
+Fin de linea : 7
+0.- 99
+1.- 111
+2.- 114
+3.- 97
+4.- 122
+5.- -13
+6.- 110
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=5196.022949
+
+No reconocio 5196.022949
+
+C = p
+
+C = a
+
+C = s
+
+C = a
+
+C = m
+
+C = a
+
+C = n
+
+C = o
+
+C = 
+
+Fin de linea : 8
+0.- 112
+1.- 97
+2.- 115
+3.- 97
+4.- 109
+5.- 97
+6.- 110
+7.- 111
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=6857.825195
+
+No reconocio 6857.825195
+
+C = u
+
+C = n
+
+C = i
+
+C = v
+
+C = e
+
+C = r
+
+C = s
+
+C = i
+
+C = d
+
+C = a
+
+C = d
+
+C = 
+
+Fin de linea : 11
+0.- 117
+1.- 110
+2.- 105
+3.- 118
+4.- 101
+5.- 114
+6.- 115
+7.- 105
+8.- 100
+9.- 97
+10.- 100
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=9525.758789
+
+No reconocio 9525.758789
+
+C = c
+
+C = o
+
+C = m
+
+C = p
+
+C = u
+
+C = t
+
+C = a
+
+C = d
+
+C = o
+
+C = r
+
+C = a
+
+C = 
+
+Fin de linea : 11
+0.- 99
+1.- 111
+2.- 109
+3.- 112
+4.- 117
+5.- 116
+6.- 97
+7.- 100
+8.- 111
+9.- 114
+10.- 97
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=9533.740234
+
+No reconocio 9533.740234
+
+C = t
+
+C = e
+
+C = c
+
+C = l
+
+C = a
+
+C = d
+
+C = o
+
+C = 
+
+Fin de linea : 7
+0.- 116
+1.- 101
+2.- 99
+3.- 108
+4.- 97
+5.- 100
+6.- 111
+
+
+Estrucutra de la Red
+
+Numero de neuronas de la red=1071
+
+Resultado=5931.912598
+
+Si reconocio 5931.912598
+
+C = ÿ
